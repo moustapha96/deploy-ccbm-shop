@@ -1,1 +1,0 @@
-import{j as r}from"./index-fQAtLNmP.js";import{R as o}from"./vendor-EKSpuOPe.js";function g(s){const{datas:t=[],startLength:e,endLength:a,children:i}=s;return r.jsx(r.Fragment,{children:t&&t.length>=a&&t.slice(e,a).map((n,m)=>r.jsx(o.Fragment,{children:i({datas:n})},n?.id||n?.slug||`item-${e+m}`))})}export{g as D};
