@@ -1,1 +1,0 @@
-import{j as r}from"./index-DwDdeQn7.js";import{R as d}from"./vendor-Cppah_1b.js";function h(m){const{datas:n=[],startLength:s,endLength:i,children:o}=m;return r.jsx(r.Fragment,{children:n&&n.length>=i&&n.slice(s,i).map((t,c)=>r.jsx(d.Fragment,{children:o({datas:t})},(t==null?void 0:t.id)||(t==null?void 0:t.slug)||`item-${s+c}`))})}export{h as D};
